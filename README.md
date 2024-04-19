@@ -1,6 +1,6 @@
 ### LINK DOCKER
 ```
-https://hub.docker.com/repository/docker/gadini/fiap-checkpoint2/general)
+https://hub.docker.com/repository/docker/gadini/fiap-checkpoint2/general
 ```
 ### PRD
 ```
